@@ -1,6 +1,6 @@
 {
   "name": "sverigesradio-api",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A library to communicate with the Swedish state radio (Sverigesradio.se) API",
   "main": "index.js",
   "scripts": {
