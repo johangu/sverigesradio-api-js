@@ -1,5 +1,6 @@
 const { get } = require('https')
 const querystring = require('querystring')
+const { URL } = require('url')
 
 const BASE_URL = 'https://api.sr.se/api/v2/'
 
